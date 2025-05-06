@@ -20,5 +20,5 @@ jobs:
     name: job3
     runs-on: ubunto-latest
     steps:
-    - name: step 3
+    - name: step3
       run: echo "hello from job 3" 
